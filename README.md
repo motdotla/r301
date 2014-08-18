@@ -1,6 +1,6 @@
 # r301
 
-<img src="https://raw.githubusercontent.com/scottmotte/r301/master/r301.gif" alt="r301" align="right" width="270" />
+<img src="https://raw.githubusercontent.com/scottmotte/r301/master/r301.gif" alt="r301" width="270" />
 
 Permanently redirect an entire domain to a new domain. Easy to configure and deploy in just 5 minutes.
 
