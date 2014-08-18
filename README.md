@@ -13,11 +13,13 @@ git clone
 cd r301
 heroku create
 git push heroku master
-heroku config:set DOMAIN=http://domain-to-redirect-to.com
+heroku config:set DOMAIN=http://newdomain.com
 heroku restart
 ```
 
-Finally, make sure you [setup your heroku custom domain settings](https://devcenter.heroku.com/articles/custom-domains) to the old domain.
+Finally, make sure you [setup your heroku custom domain settings](https://devcenter.heroku.com/articles/custom-domains) for the old domain.
+
+Visit <http://olddomain.com/somewhere> and watch it get 301 redirected to <http://newdomain.com/somewhere>.
 
 ### Development
 
