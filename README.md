@@ -8,6 +8,10 @@ Permanently redirect an entire domain to a new domain. Easy to configure and dep
 
 ### Production
 
+Click this button to install to Heroku.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 ```
 git clone
 cd r301

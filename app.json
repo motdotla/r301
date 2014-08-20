@@ -1,0 +1,19 @@
+{
+  "name": "r301",
+  "description": "Permanently redirect an entire domain to a new domain. Easy to configure and deploy in just 5 minutes.",
+  "keywords": [
+    "redirect",
+    "domain",
+    "301",
+    "permanent redirect"
+  ],
+  "website": "https://github.com/scottmotte/r301",
+  "repository": "https://github.com/scottmotte/r301",
+  "logo": "https://raw.githubusercontent.com/scottmotte/r301/master/r301.gif",
+  "env": {
+    "DOMAIN": {
+      "description": "The domain you wish to redirect to.",
+      "value": "http://domain-to-redirect-to.com"
+    }
+  }
+}
