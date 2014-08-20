@@ -13,7 +13,8 @@
   "env": {
     "DOMAIN": {
       "description": "The domain you wish to redirect to.",
-      "value": "http://domain-to-redirect-to.com"
+      "value": "http://domain-to-redirect-to.com",
+      "required": true
     }
   }
 }
